@@ -14,6 +14,6 @@ The script produces as the output a zip file named ``output.zip`` containing an 
 
 The file [``example_input_documents.zip``](example_input_documents.zip) is an example of input data.
 
-See [``requirements.txt``](requirements.txt) for the requirements of the python environment.
+See [``requirements.txt``](requirements.txt) for the requirements of the python (tested on 3.11) environment.
 
 See [LICENSE](LICENSE) file for the license terms.
