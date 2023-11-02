@@ -10,7 +10,7 @@ It takes in input a filename. The filename may point to a txt file a pdf file or
 
 The script produces as the output a zip file named ``output.zip`` containing an HTML file with the annotations for each input file.
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 The file [``example_input_documents.zip``](example_input_documents.zip) is an example of input data.
 
