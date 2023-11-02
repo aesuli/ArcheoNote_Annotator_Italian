@@ -1,0 +1,3 @@
+PyMuPDF
+nltk
+sklearn_crfsuite
